@@ -29,7 +29,8 @@ The report provides overview of the stores performance and provide insight to
 ## Overview of Dashbord
 ![Maven Toy Stores Report](https://github.com/valezenwanne/maven-toy-store-report/assets/106878963/4d49d138-b521-40e5-af1e-5b54a390ac14)
 
-
+Click the link below to interact with the dashboard
+https://www.novypro.com/project/maven-toy-stores-report-2017-2018
 
 ## Summary of Findings
 
