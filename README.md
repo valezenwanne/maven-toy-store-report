@@ -27,9 +27,7 @@ The report provides overview of the stores performance and provide insight to
 - Quantity of Stock and Revenue tied up in the inventory
 
 ## Overview of Dashbord
-![valentine](https://github.com/valezenwanne/maven-toy-store-report/assets/106878963/f312b605-ace9-4e0f-98b0-c3277c662993)
-
-
+![Maven Toy Stores Report](https://github.com/valezenwanne/maven-toy-store-report/assets/106878963/4d49d138-b521-40e5-af1e-5b54a390ac14)
 
 
 
